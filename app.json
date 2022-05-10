@@ -6,7 +6,7 @@
 	"website": "https://small-sharp-tool.com/",
 	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
 	"keywords": ["multi-device","ＡＬＩＥＮ ＡＬＦＡ"],
-	
+	"stack": "container",
 	"env": { 
     "OWNER": {
             "description": "Pleas enter Number Of the Owner.",
@@ -30,7 +30,7 @@
         }, 
     "SUDO": {
             "description": "Add superuser to this bot",
-            "required": true
+            "required": false
         },
     "NORMAL": {
             "description": "Use Fancy Templayes Rather Than Normal Messages",
@@ -155,6 +155,18 @@
             "description": "Main footer Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
             "required": false,
             "value": "ɪɴꜰᴏ ᴍᴇɴᴜ"
+        },
+    "APP_NAME": {
+            "description": "Heroku App name to manage the worker (you canot use restart if u dont fill thsi and HEROKU_API)",
+            "required": true
+        },
+    "HEROKU_API": {
+            "description": "Heroku API key for managing the worker (You canot use restart if u dont fill thsi and APP_NAME)",
+            "required": true
+        },
+    "SESSION_ID": {
+            "description": "Add your Session ID here you got from Your Bot",
+            "required": true
         },
      
     "ZENS_API": {

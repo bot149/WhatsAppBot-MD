@@ -24,12 +24,12 @@
 
 <br>
 <p align="left">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/current%20Status-working!-green.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/current%20Status-Updates%20Are%20coming%20soon!-orange.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
-<br><!--
+<br>
 <p align="left">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/next%20update-Tomorrowm-green.svg?style=for-the-badge&logo=xcode" /></a>
-</p>-->
+  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/next%20update-Tomorrow!-green.svg?style=for-the-badge&logo=xcode" /></a>
+</p>
 
 
 
@@ -58,11 +58,11 @@
 </p>
 <br><br><br>
 <p align="center">
-  <a href="https://www.youtube.com/c/alienalfa"><img title="Join Whatsapp Group" src="https://raw.githubusercontent.com/Alien-alfa/PublicBot/main/wlogo.svg.png" width="600"></a>
+  <a href="https://chat.whatsapp.com/JKdPcantKre0Mx3mzNUdIu"><img title="Join Whatsapp Group" src="https://raw.githubusercontent.com/Alien-alfa/PublicBot/main/wlogo.svg.png" width="600"></a>
 </p>
 <br><br>
 <p align="center">
-  <a href="https://chat.whatsapp.com/JKdPcantKre0Mx3mzNUdIu"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="150"></a>
+  <a href="https://www.youtube.com/c/alienalfa"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="150"></a>
 </p>
 
 <br><br>
@@ -105,11 +105,11 @@ Scan The Code in repl.it then copyand past the session in session.alfa.json file
   
   <br><br>
   # `Deploy In Heroku`
-<!--
 
-<a href="https://heroku.com/deploy?template=https://github.com/Alien-alfa/WhatsAppBot-MD"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
 
- -->
+<a href="https://gist.github.com/Alien-alfa/4a3f940e9e65eee62fd76ffebf302cf1"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+
+
   
 
 
@@ -253,10 +253,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## ⚠️ Developers
   <div align="center">
   
-| [![Alien-Alfa](https://github.com/Alien-alfa.png?size=200)](https://github.com/Alien-Alfa) |[![Dika Ardnt.](https://github.com/DikaArdnt.png?size=200)](https://quiec.tech) |
-|----|----|
-| [꧁𓊈𒆜ＡＬＩＥＮ ＡＬＦＡ𒆜𓊉꧂](https://github.com/AI-VIKI) | [꧁𓊈𒆜ＤＩＫＡ ＡＲＤＮＴ𒆜𓊉꧂](https://github.com/DikaArdnt) | 
-|  𒆜Bug Fixes, Modules, updates𒆜 |   𒆜Author, Base, Update as MD𒆜 |
+| [![Alien-Alfa](https://github.com/Alien-alfa.png?size=200)](https://github.com/Alien-Alfa) |
+|----|
+| [꧁𓊈𒆜ＡＬＩＥＮ ＡＬＦＡ𒆜𓊉꧂](https://github.com/AI-VIKI) |
+|  𒆜Bug Fixes, Modules, updates𒆜 |
   
   </div>
 
